@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url("./img/background.jfif");
+}
+
+section {
+    padding: 15px;
+    margin: 6vh;
+    display: flex;
+
+}
+
+.historia {
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 24px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(55, 55, 55, 0.9);
+}
+
+.informativo {
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 24px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(55, 55, 55, 0.9);
+}
+
+.center{
+    width: 250px;
+    height: 200px;
+    border-radius: 5%;
+}
